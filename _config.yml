@@ -28,7 +28,6 @@ github_username:  Michael-Fenn
 linkedin_username: michael-fenn15
 
 header_pages:
-  - index.markdown
   - nav.markdown
   - about.markdown
 

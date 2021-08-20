@@ -1,6 +1,6 @@
 ---
 layout: page
-title: nav
+title: Index
 permalink: /nav/
 ---
 <ul>
