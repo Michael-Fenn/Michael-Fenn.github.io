@@ -2,7 +2,7 @@
 
 This is my personal blog, where I write about a multitude of topics. If it's something that I find mildly interesting I'll likely write about it.
 
-You can access the blog via this url: https://michael-fenn.github.io/
+You can access the blog via this url: https://mikesmind.blog/
 
 ***
 
