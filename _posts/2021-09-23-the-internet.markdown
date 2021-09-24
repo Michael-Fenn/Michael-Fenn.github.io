@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The Internet"
-date: 2021-09-20
+date: 2021-09-23
 categories: general
 ---
 The internet has just about always played a role in my day to day life. May it be for entertainment, connecting with others, or to simply find a distraction, the internet has been there for me and many others. I'll go into my personal history with the internet in a future post, but that is not the purpose of this post. 
