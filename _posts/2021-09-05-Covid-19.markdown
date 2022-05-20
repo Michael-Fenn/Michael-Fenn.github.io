@@ -2,7 +2,7 @@
 layout: post
 title: "Covid-19"
 date: 2021-09-05
-categories: world events
+categories: [world events]
 ---
 We are roughly a year and a half into the Covid-19 pandemic, and with the Delta variant things don't appear to be calming down anytime soon. While we are "returning to normal" in a sense, life still remains changes. From mask mandates, social distancing, and continued strain on our medical system we continue to feel the effects of the virus. I wouldn't be surprised if we never truly return to "normal". 
 
