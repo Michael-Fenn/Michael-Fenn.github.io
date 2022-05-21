@@ -28,7 +28,7 @@ github_username:  Michael-Fenn
 linkedin_username: michael-fenn15
 
 header_pages:
-  - nav.markdown
+  - categories.markdown
   - about.markdown
 
 # Build settings
