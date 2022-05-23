@@ -1,0 +1,15 @@
+---
+layout: post
+title: "Time Management"
+categories: general
+---
+
+As I've grown older I have come to realize how valuable time is. As a child/teen I could spend a whole day essentially doing nothing, nowadays I'm constantly filled with anxiety over my time management. Am I spending my time right, should I be doing these other things, am I prepared for the future? These are just a few of the many anxieties I'm constantly fretting about. Hell, I even have anxiety about my various anxieties. 
+
+The topic of this post correlates with why it's several months late: time. It takes time for me to write one of these out, and time is something I don't have a whole lot of nowadays. School and work dominate my day to day life, so much so that I rarely have the energy to pursue my personal projects such as this blog. Being busy all of the time is exhausting, and being exhausted is exhausting. It has a bit of a snowball effect, as the stress, anxiety, and exhaustion build up it only starts to accelerate. I just wish there were a few more hours in each and every day. With that little bit of extra time each day, I would be able to make so much more progress on things that have to lie on the back-burner. 
+
+I've found myself with a considerable decrease in the amount of hours in my day. This is because I started to sleep properly. For just about the entirety of my teenage years I would exist off of 4-6 hours of sleep, and get the occasional 13 hours of sleep every couple of weeks. Nowadays I try to always get 6 hours of sleep as a bare-minimum. If i'm able I get 7-8 hours of sleep. However, this comes at a price: several hours of time that could be spent doing other things. I have so many passions, personal projects, etc that I want to do, but have to sit on the back-burner due to life responsibilities. It would be nice if I didn't have to deal with these responsibilities, but life just doesn't work like that. 
+
+While I don't have the procrastination genes of my brother, I still often find myself just staring at my screen, not doing anything productive. Yet, while I'm sitting there staring, my mind is screaming at me to finally complete all of these personal projects, and other tasks that I should really get around to doing. Yet, instead of spending my few hours of free time everyday doing something more "productive" I instead spend it browsing sites such as youtube and reddit, playing video games, watching anime, or staring at homework assignments and projects. It really is quite a struggle. 
+
+Procrastination and one's time management skills are built through habits. The thing about habits is that they can be a struggle to change. They make things easier for our brain to process and do everyday tasks, but this can become one's downfall, as it makes it all that much easier to become complacent. This is why it is important to pay attention to one's own habits, so we don't waste the little bit of time that we have. 
