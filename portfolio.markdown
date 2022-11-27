@@ -6,7 +6,7 @@ permalink: /portfolio/
 
 Welcome to my portfolio! You'll find details about some of the projects that I've worked on here. 
 
-##Star Shower
+## Star Shower
 
 Star Shower is a Unity based game that I created for my Into to Game Design class. It is a top down space shooter inspired by the likes of Galaga and Asteroids.
 I created all of the sprites myself using Aseprite and all of the code was written with C#. 
