@@ -11,4 +11,12 @@ Welcome to my portfolio! You'll find details about some of the projects that I'v
 Star Shower is a Unity based game that I created for my Into to Game Design class. It is a top down space shooter inspired by the likes of Galaga and Asteroids.
 I created all of the sprites myself using Aseprite and all of the code was written with C#. 
 Current iteration has endless wave of enemies with a highscore system. I'd like to add a "story" mode at some point that has designated waves of enemies and bosses. 
-![Star SHower](/assets/images/star_shower.gif)
+
+
+![Star Shower](/assets/images/star_shower.gif)
+
+## Discord Bot
+
+This is a Discord bot that will return embedded search results based on the user's input. The bot uses the Lego Universe Fandom Wiki API. Built using Javascript. 
+
+![Discord Bot](/assets/images/discordBot.PNG)
