@@ -20,3 +20,7 @@ Current iteration has endless wave of enemies with a highscore system. I'd like 
 This is a Discord bot that will return embedded search results based on the user's input. The bot uses the Lego Universe Fandom Wiki API. Built using Javascript. 
 
 ![Discord Bot](/assets/images/discordBot.PNG)
+
+## UNCC Heatmap
+
+Displays foot traffic based off router log data provided by the University. The data covers a period from 2019-2021 and is not a real time feed, but rather an average of what the traffic normally looks like. Site is hosted at 4155-group1.pages.dev.
