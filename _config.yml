@@ -30,6 +30,7 @@ linkedin_username: michael-fenn15
 header_pages:
   - categories.markdown
   - about.markdown
+  - portfolio.markdown
 
 # Build settings
 theme: minima
