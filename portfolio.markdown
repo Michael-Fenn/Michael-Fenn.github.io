@@ -4,7 +4,7 @@ title: Portfolio
 permalink: /portfolio/
 ---
 
-Welcome to my portfolio! You'll find details about some of the projects that I've worked on here. 
+Welcome to my portfolio! You'll find details about some of the projects that I've worked on here. You can find the source code for some of the projects I have worked on in my GitHub. The link to which is at the footer/bottom of this page. 
 
 ## Star Shower
 
